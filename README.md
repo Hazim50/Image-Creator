@@ -57,6 +57,3 @@
     <li>Python</li>
     <li>OpenCV (cv2)</li>
 </ul>
-![black-blue-B](https://github.com/Hazim50/Image-Generator/assets/74001552/a3ae2c24-c752-4629-987e-c36761113cad)
-![white-red-3](https://github.com/Hazim50/Image-Generator/assets/74001552/666629e8-27fe-44a3-b6b2-9133fc253a2e)
-![blue-green-H](https://github.com/Hazim50/Image-Generator/assets/74001552/a2b2789b-e828-407c-bdab-789b224ad5b4)
